@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting 
-#### Developed By: KISHORE B     
-#### Reg.NO: 212224100032
+#### Developed By: JAYASURYA B    
+#### Reg.NO: 212224100026
 # AIM:
 To practice Linux Commands and Shell Scripting
 
